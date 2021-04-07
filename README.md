@@ -1,2 +1,2 @@
-# CSC435
-CSC435 team project(Group 4).
+# SE452
+SE452 team project(Group 4).
