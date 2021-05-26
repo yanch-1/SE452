@@ -15,7 +15,7 @@ import java.util.Date;
 public class itemReview {
     @Id
     private String item;
-    private String review;
+    private String reviews;
     private String reviewer;
     private Date reviewDate;
 }
